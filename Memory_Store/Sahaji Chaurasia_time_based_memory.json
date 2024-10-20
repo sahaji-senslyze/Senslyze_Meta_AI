@@ -1,0 +1,14 @@
+{
+    "Sahaji's Mom's Birthday": {
+        "compressed_info": "Sahaji's mom bday tomorrow",
+        "importance": 4,
+        "relevance": 5,
+        "expiry_time": "2024-10-20T11:12:21.962313"
+    },
+    "Birthday Reminder": {
+        "compressed_info": "sahaji's birthday is day after tomorrow",
+        "importance": 3,
+        "relevance": 3,
+        "expiry_time": "2024-10-21T13:51:12.174919"
+    }
+}

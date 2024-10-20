@@ -1,0 +1,85 @@
+{
+    "products": [
+      {
+        "product_id": "SH001",
+        "name": "Luxury Cloud-Comfort Memory Foam Mattress",
+        "description": "Experience the epitome of opulence with our Luxury Cloud-Comfort Memory Foam Mattress. Designed with an innovative, temperature-sensitive memory foam layer, this mattress embraces your body shape, offering personalized support and unparalleled comfort.",
+        "price": 999,
+        "image_url": "https://m.media-amazon.com/images/I/615ElisimfL._SX569_.jpg",
+        "buy_url": "Sleepwell-Impressions-Mattress-Airvent-Technology/dp/B0CJM7H24F/ref=sr_1_1_sspa?crid=3IHMV8HTUPBLA&dib=eyJ2IjoiMSJ9.f23zWd-SuioNBmSvmdkSMr9jwwOpINKK1pRa0GBUOQlz13JRnIScH5EGQPx5OmjYI_2IsFjAkssZfbOyaldZFHX3h3DaRUSit782d9gIDlHt5l89hmn7gVGB0yc0eCodgwBD1LvOuOQgyWkDrLfBI09dz80CgtgiJvJCyE-e5qLhjw_lKNZomUIvTHbVhXMu1ZUlMw4I9TImLEyHdkZphzks0Ot29DJvGGKoC24VvTWPxQfP76HSMonxX2MjY2ZskjP_MZXJynUeNczF1dv1jIwswbAnJlBF1trz6UTWW4E.adbOqU8YnPyn11AYyO2BKg-yYjA1Po9CTC_fbeZuYIs&dib_tag=se&keywords=Luxury%2BCloud-Comfort%2BMemory%2BFoam%2BMattress&qid=1729328597&sprefix=luxury%2Bcloud-comfort%2Bmemory%2Bfoam%2Bmattress%2Caps%2C220&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+      },
+      {
+        "product_id": "SH002",
+        "name": "Classic Harmony Spring Mattress",
+        "description": "The Classic Harmony Spring Mattress is designed to give you restful, uninterrupted sleep. It features a robust inner spring construction, complemented by layers of plush padding that offer the perfect balance of support and comfort.",
+        "price": 1299,
+        "image_url": "https://m.media-amazon.com/images/I/81Tvhq5RSpL._SX679_.jpg",
+        "buy_url": "Peps-6-inch-Spring-Mattress-78x72x06/dp/B074PT2VSB/ref=sr_1_1_sspa?crid=U43PEYYUHWGQ&dib=eyJ2IjoiMSJ9.RAb4x9_4ZpwSZuHQYRAflGbyDUTbuZFkoo7QFGPGMqtGyf_BuYA_EUFwK0n_wyEH-JOOY7IMl2k6bhwK2dt_QRQPaXgCDY--MIbI0YTW7ILbyDMjQiReisFMvuUe6Z3Y5sPuU4nXlhGntmJP6C_5d5atZRy9boinBVWjMESTTBEH0CrFUEeC3oT0Wep6oCUclRZc0Sq7h9mzYHS8FzQcUaTJYbVH5cxaxus3cskBDtqQ1nO7a_erQP0MWyFq0E2gg4O-mYVWWdCOxnHA-rq8AyUE9vhDHDVmGqbXfUHi0J4.5xOMk_Tm-rYQJyU9Al-p6pqQP_NoIbudSL5oKNeCEuA&dib_tag=se&keywords=Classic%2BHarmony%2BSpring%2BMattress&nsdOptOutParam=true&qid=1729328653&sprefix=classic%2Bharmony%2Bspring%2Bmattress%2Caps%2C233&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+      },
+      {
+        "product_id": "SH003",
+        "name": "EcoGreen Hybrid Latex Mattress",
+        "description": "Made from 100% natural latex, the EcoGreen Hybrid Latex Mattress offers a responsive, bouncy feel combined with pressure relief. Wrapped in a certified organic cotton cover, this mattress ensures comfort and minimal motion transfer.",
+        "price": 1599,
+        "image_url": "https://m.media-amazon.com/images/I/71SGVQVjGoL._SX569_.jpg",
+        "buy_url": "MM-FOAM-Purity-Hypoallergenic-High-Density/dp/B0DHY88SCW/ref=sr_1_6?crid=3MQT1SPYXEWRD&dib=eyJ2IjoiMSJ9.ZAJgRSWuk1PXrkSyUPmvduNdSq67CHE7r1nSayU1S0jF8-GJ03D-NTlo8YnCzxAaj2sgO1e1SL2Eh5xfLUDSNUW5O0gTCZvUSkkPbBJCabLyZFJAK-EayfIeuWC8AXTMURBLFcEj0l1JhcIqEIa5QMWoLhjXVjLbK5K3Gzy5NiHMhS8nyQmdT43JNabZQ5cqlEGONnYvrfY4uCKWDe04Kc2GZpNTcKLCtZ0dGoXNbmLuBE07-uWYPAYicGDPDKuBXdlzalqeareAlT7-0vSeDDr-2k_pnJI8wksAFE8_6q8.VkbxTK1EXKOi8brwaG5QbCnCSDmYU_i5pWuA5_LRO6g&dib_tag=se&keywords=EcoGreen%2BHybrid%2BLatex%2BMattress&nsdOptOutParam=true&qid=1729328714&sprefix=ecogreen%2Bhybrid%2Blatex%2Bmattress%2Caps%2C221&sr=8-6&th=1"
+      },
+      {
+        "product_id": "SH004",
+        "name": "Plush Serenity Bamboo Mattress",
+        "description": "The Plush Serenity Bamboo Mattress features plush adaptive foam for tailored support, with a bamboo-infused top layer for temperature regulation. It offers a luxurious, eco-friendly sleep experience with moisture-wicking properties.",
+        "price": 2599,
+        "image_url": "https://m.media-amazon.com/images/I/91JoitHYR4L._SX679_.jpg",
+        "buy_url": "SleepyCat-Latex-Hybrid-Mattress-78x60x6inches/dp/B09XGPZKTZ/ref=sr_1_2_sspa?crid=1C063O1YSL6WS&dib=eyJ2IjoiMSJ9.2M8FQ6g2_VZjxO-K2tCErx5rT2LuSnmSaQR6BVjVep_BswKiDW3-xCwrwHNy-26qhd-E603_SJ2B407rcdXB3g6SosDurw_pQhBe5Cm0871apNZ_hRmPenbicK7BFPQA3_8DgfQLp6slQNmeu-hHp-yxRezWS2BgAzZ5k9MBcOLdYySNBZGrhfakZ32LqiO_1T-1E0TAfRuu3diQTgNF2uFakRNtp-Fr-6ZLRShVUHB-qG61V7l5c8FIjq5WeKt1.7d4MgbSHR_3m1-RqdkduxWwAOa__vWZMbQKfzV7oYQY&dib_tag=se&keywords=Plush%2BSerenity%2BBamboo%2BMattress&qid=1729384781&sprefix=classic%2Bharmony%2Bspring%2Bmattress%2Caps%2C1386&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+      },
+      {
+        "product_id": "SH005",
+        "name": "UltraPlush Euro-Top Mattress",
+        "description": "The UltraPlush Euro-Top Mattress is topped with a thick cushiony foam for pressure relief, with a core of individually wrapped coils for precise support. The hypoallergenic pillow-top cover ensures a dry, cool, and restful night's sleep.",
+        "price": 1899,
+        "image_url": "https://m.media-amazon.com/images/I/71Qvd44kIlL._SX679_.jpg",
+        "buy_url": "Sleep-Company-Smart-72x60x6-Mattress/dp/B07QB41FMN/ref=sr_1_1_sspa?crid=2TESAORUGINM8&dib=eyJ2IjoiMSJ9.0QhJRlsTLauSBTtunQFZOatcK_7I0I7BmbXEtRNJC3XZSDXAsoZYiFwF3FUaqFIBV_EdNPEwKQmMOMcUsZ66AT0wKcu1FjT5srPnAw_sdI5Xn6LaTBTHlLn7MW3XPwlaArfyazASnX1dasVeMqbRa-xjJSoSWOF-y6lh8v5-OKwsquzGUnOL8fNMXr8XXey4k18JX56xcaBoNlu1EgKyoDjNz2_0fdpLQ0DWHpnmONrej-DjkUjIExaExjQ4d8JwRHu2mSNup3Z9upIDAYcggPD_4Dw33YzZy6OhBIDkZhU.6dBiXtZyIvZdhTM76twfehJAOR3_W9ElLMV9RoGFjJQ&dib_tag=se&keywords=UltraPlush+Euro-Top+Mattress&nsdOptOutParam=true&qid=1729384850&sprefix=ultraplush+euro-top+mattress%2Caps%2C912&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+      },
+      {
+        "product_id": "SH006",
+        "name": "Firm Support Orthopedic Mattress",
+        "description": "The Firm Support Orthopedic Mattress provides exceptional firmness with high-density foam for targeted spine support. Its bamboo-charcoal fiber cover wicks away moisture and prevents odors, ideal for therapeutic sleep.",
+        "price": 1499,
+        "image_url": "https://m.media-amazon.com/images/I/71SGVQVjGoL._SX569_.jpg",
+        "buy_url": "MM-FOAM-Purity-Hypoallergenic-High-Density/dp/B0DHY88SCW/ref=sr_1_6?crid=3MQT1SPYXEWRD&dib=eyJ2IjoiMSJ9.ZAJgRSWuk1PXrkSyUPmvduNdSq67CHE7r1nSayU1S0jF8-GJ03D-NTlo8YnCzxAaj2sgO1e1SL2Eh5xfLUDSNUW5O0gTCZvUSkkPbBJCabLyZFJAK-EayfIeuWC8AXTMURBLFcEj0l1JhcIqEIa5QMWoLhjXVjLbK5K3Gzy5NiHMhS8nyQmdT43JNabZQ5cqlEGONnYvrfY4uCKWDe04Kc2GZpNTcKLCtZ0dGoXNbmLuBE07-uWYPAYicGDPDKuBXdlzalqeareAlT7-0vSeDDr-2k_pnJI8wksAFE8_6q8.VkbxTK1EXKOi8brwaG5QbCnCSDmYU_i5pWuA5_LRO6g&dib_tag=se&keywords=EcoGreen%2BHybrid%2BLatex%2BMattress&nsdOptOutParam=true&qid=1729328714&sprefix=ecogreen%2Bhybrid%2Blatex%2Bmattress%2Caps%2C221&sr=8-6&th=1"
+      },
+      {
+        "product_id": "SH007",
+        "name": "CoolRest Gel-Infused Mattress",
+        "description": "The CoolRest Gel-Infused Mattress adapts to your body with layers of gel memory foam, keeping heat at bay. Its high-density foam base provides support, while the moisture-wicking cover ensures a cool sleep experience.",
+        "price": 1099,
+        "image_url": "https://m.media-amazon.com/images/I/61RdUq3OsLL._SX679_.jpg",
+        "buy_url": "Wakefit-Mattress-Warranty-XpertGRID-78x36x8/dp/B0B9T5T757/ref=sr_1_6?crid=3S9LPQPK9FJBV&dib=eyJ2IjoiMSJ9.clAoB9KWp0yIPlhqA_TCvEoFWfYy3HYijVudGdpgsJKhRKHAY0o7H22KvHP6r2oVV3dNIhjvc4RUx5rXqbyrA1UXXINIXH7ExUgNQb_PauFj655UIyrkovl4wvgpsNOz4Fmr6kpIHTFfUKnaoQ75zv0x1wL45AHefXH7QllCk0ctgsjZihN4dWsPABgl8Mw8eZD-jpjfPSLKjS7fDAvc_5Ss9MV74Lsmd1JYBUQx4vV335mqLdwwSZuaC95V5S-zd5OYa4PzIBxZRHDZ0FqDP1sf2Rux_K69S_Dgcv9FaS8.l3a-V4Jp-d99ZjXTzeBu1tLuKvzPvTue6_APpebennQ&dib_tag=se&keywords=CoolRest%2BGel-Infused%2BMattress&qid=1729384930&sprefix=ultraplush%2Beuro-top%2Bmattress%2Caps%2C1385&sr=8-6&th=1"
+      },
+      {
+        "product_id": "SH008",
+        "name": "SnugNest Crib Mattress",
+        "description": "The SnugNest Crib Mattress offers dual-sided firmness, with a firm side for newborns and a softer side for toddlers. It features a breathable foam core and a waterproof, hypoallergenic cover to ensure your baby sleeps in a safe environment.",
+        "price": 299,
+        "image_url": "https://m.media-amazon.com/images/I/41Ke3TD9+nL._SY300_SX300_.jpg",
+        "buy_url": "Centuary-Beddy-Blossom-Mattress-Protector/dp/B09S3MLCNH/ref=sr_1_1_sspa?crid=UBOCNU2GTNO5&dib=eyJ2IjoiMSJ9.P181L_JkFpT5HEIhU0PgPtaUcpQ2hvl7hOiTc0Kz31NTQIkVcHgMhzvINOGSxnhW8T1XY9o91HoVGg1VPQnNSFqzggOcipFyMa5IfcJfbj-iM8Ur2tZeZumkJ0CkahoKfigkxlOk3IXXm1-TZIvB0x-zigAuy39-KPoH1jv1hMOoKgaY1KlZ59MJvKqcl07as-AY2zt599FSpZDBFYoF8jlpQo6_zl1t6An_8Dhjjh8E7ULn7ndIYnZT3FzEi9_jLm4wRJ9gezkIR7aQMVwRpO2mUm4H7Rds7wtJpcgnHI8.YNyaJRsDRRh0OUZQUH1E4CuCHUoNzJS1hpM1l7SZe1w&dib_tag=se&keywords=SnugNest%2BCrib%2BMattress&qid=1729385036&sprefix=snugnest%2Bcrib%2Bmattress%2Caps%2C370&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+      },
+      {
+        "product_id": "SH009",
+        "name": "Therapeutic Lavender-Infused Memory Foam Mattress",
+        "description": "Infused with natural lavender oils, the Therapeutic Lavender-Infused Memory Foam Mattress combines relaxation and support with contouring memory foam that reduces pressure points. Its lavender-infused cover creates a tranquil sleep environment.",
+        "price": 1699,
+        "image_url": "https://m.media-amazon.com/images/I/71vbDxNoqpL._SX569_.jpg",
+        "buy_url": "MM-FOAM-Purity-Hypoallergenic-High-Density/dp/B0DHY88SCW/ref=sr_1_6?crid=3MQT1SPYXEWRD&dib=eyJ2IjoiMSJ9.ZAJgRSWuk1PXrkSyUPmvduNdSq67CHE7r1nSayU1S0jF8-GJ03D-NTlo8YnCzxAaj2sgO1e1SL2Eh5xfLUDSNUW5O0gTCZvUSkkPbBJCabLyZFJAK-EayfIeuWC8AXTMURBLFcEj0l1JhcIqEIa5QMWoLhjXVjLbK5K3Gzy5NiHMhS8nyQmdT43JNabZQ5cqlEGONnYvrfY4uCKWDe04Kc2GZpNTcKLCtZ0dGoXNbmLuBE07-uWYPAYicGDPDKuBXdlzalqeareAlT7-0vSeDDr-2k_pnJI8wksAFE8_6q8.VkbxTK1EXKOi8brwaG5QbCnCSDmYU_i5pWuA5_LRO6g&dib_tag=se&keywords=EcoGreen%2BHybrid%2BLatex%2BMattress&nsdOptOutParam=true&qid=1729328714&sprefix=ecogreen%2Bhybrid%2Blatex%2Bmattress%2Caps%2C221&sr=8-6&th=1"
+      },
+      {
+        "product_id": "SH010",
+        "name": "Adjustable Comfort Sleep System",
+        "description": "The Adjustable Comfort Sleep System features a split design for customized comfort, with adjustable air chambers and cooling gel memory foam. It can be elevated to relieve snoring, acid reflux, and joint pain, and is controllable via a wireless remote or app.",
+        "price": 3299,
+        "image_url": "https://m.media-amazon.com/images/I/71SGVQVjGoL._SX569_.jpg",
+        "buy_url": "https://www.amazon.in/Emma-Mattress-HyperAdapt-Technology-Orthopedic/dp/B0D9QYD5XG/ref=sr_1_2_sspa?crid=29SCJB4T3RLAL&dib=eyJ2IjoiMSJ9.5SGAHU9pSrechDEDg5CIPGlXzvp1RyNJZ-3acbDNjNGsi_CcJHGKNnXBtUx4_R1DLK2DkARDrCnQUuVT6qlcx4gu791a026-M-ZCPFosBfCGvgPDMilpuRnioxGy8N4ZzxbyN9_BTqBQhRT4ZLgDioPOAzY_6008jO3pCz1DASs9630ZoB6lnmeQGNtztx2U68ubkxi_e-N_AEyav5cceKAi29-5mTsukx8L3t2Y4IY7U1mfdZOvvirN1RjDd0zRGZI2ZbQXmS8tOQMon9sy2ubXmWaU-R7TNJUkVi-1-Lk.PU4Y42wh5BRA4T3ji_vE0dB5SRTiQ8ABxN4-ox2AI7c&dib_tag=se&keywords=Therapeutic%2BLavender-Infused%2BMemory%2BFoam%2BMattress&qid=1729385112&sprefix=therapeutic%2Blavender-infused%2Bmemory%2Bfoam%2Bmattress%2Caps%2C769&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+      }
+    ]
+  }
+  
